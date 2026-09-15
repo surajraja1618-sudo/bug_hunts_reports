@@ -1,0 +1,6 @@
+Bug:Directory Listing at /images/-Found sitelogo.png
+Bug at tesphp.vulnweb.com/images/-Found testphp.vulnweb
+Title: Directory Listing Found
+URL: http://scanme.nmap.org/images/
+Steps: curl -I /images/ kiya, sitelogo.png mila
+Impact: Images public hain

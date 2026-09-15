@@ -1,0 +1,1 @@
+Bug:Directory Listing at /images/-Found sitelogo.png

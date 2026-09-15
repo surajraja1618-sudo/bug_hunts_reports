@@ -1,0 +1,4 @@
+Title: Directory Listing Found
+URL: http://scanme.nmap.org/images/
+Steps: curl -I /images/ kiya, sitelogo.png mila
+Impact: Images public hain

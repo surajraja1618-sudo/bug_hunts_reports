@@ -1,0 +1,5 @@
+=== SCANME.NMAP.ORG BUG REPORT ===
+Tool: nmap http-enum
+Vulnerable: /images/ -> Directory Listing Enabled (200 OK)
+Secure: /icons/, /shared/ -> 403 Forbidden
+Server: Apache/2.4.7 (Ubuntu)
